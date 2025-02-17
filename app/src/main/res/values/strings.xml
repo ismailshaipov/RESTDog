@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RESTDog</string>
+    <string name="next_image_btn_text">Next Image</string>
 </resources>
